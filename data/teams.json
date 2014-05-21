@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "name": "巴西",
+        "code": "BRA",
+        "group": "A"
+    }, 
+    {
+        "id": 2,
+        "name": "克罗地亚",
+        "code": "CRO",
+        "group": "A"
+    }, 
+    {
+        "id": 3,
+        "name": "墨西哥",
+        "code": "MEX",
+        "group": "A"
+    }, 
+    {
+        "id": 4,
+        "name": "喀麦隆",
+        "code": "CMR",
+        "group": "A"
+    }, 
+    {
+        "id": 5,
+        "name": "西班牙",
+        "code": "ESP",
+        "group": "B"
+    }, 
+    {
+        "id": 6,
+        "name": "荷兰",
+        "code": "NED",
+        "group": "B"
+    }, 
+    {
+        "id": 7,
+        "name": "智利",
+        "code": "CHI",
+        "group": "B"
+    }, 
+    {
+        "id": 8,
+        "name": "澳大利亚",
+        "code": "AUS",
+        "group": "B"
+    }, 
+    {
+        "id": 9,
+        "name": "哥伦比亚",
+        "code": "COL",
+        "group": "C"
+    }, 
+    {
+        "id": 10,
+        "name": "希腊",
+        "code": "GRE",
+        "group": "C"
+    }, 
+    {
+        "id": 11,
+        "name": "科特迪瓦",
+        "code": "CIV",
+        "group": "C"
+    }, 
+    {
+        "id": 12,
+        "name": "日本",
+        "code": "JPN",
+        "group": "C"
+    }, 
+    {
+        "id": 13,
+        "name": "乌拉圭",
+        "code": "URU",
+        "group": "D"
+    }, 
+    {
+        "id": 14,
+        "name": "哥斯达黎加",
+        "code": "CRC",
+        "group": "D"
+    }, 
+    {
+        "id": 15,
+        "name": "英格兰",
+        "code": "ENG",
+        "group": "D"
+    }, 
+    {
+        "id": 16,
+        "name": "意大利",
+        "code": "ITA",
+        "group": "D"
+    }, 
+    {
+        "id": 17,
+        "name": "瑞士",
+        "code": "SUI",
+        "group": "E"
+    }, 
+    {
+        "id": 18,
+        "name": "厄瓜多尔",
+        "code": "ECU",
+        "group": "E"
+    }, 
+    {
+        "id": 19,
+        "name": "法国",
+        "code": "FRA",
+        "group": "E"
+    }, 
+    {
+        "id": 20,
+        "name": "洪都拉斯",
+        "code": "HON",
+        "group": "E"
+    }, 
+    {
+        "id": 21,
+        "name": "阿根廷",
+        "code": "ARG",
+        "group": "F"
+    }, 
+    {
+        "id": 22,
+        "name": "波黑",
+        "code": "BIH",
+        "group": "F"
+    }, 
+    {
+        "id": 23,
+        "name": "伊朗",
+        "code": "IRN",
+        "group": "F"
+    }, 
+    {
+        "id": 24,
+        "name": "尼日利亚",
+        "code": "NGA",
+        "group": "F"
+    }, 
+    {
+        "id": 25,
+        "name": "德国",
+        "code": "GER",
+        "group": "G"
+    }, 
+    {
+        "id": 26,
+        "name": "葡萄牙",
+        "code": "POR",
+        "group": "G"
+    }, 
+    {
+        "id": 27,
+        "name": "加纳",
+        "code": "GHA",
+        "group": "G"
+    }, 
+    {
+        "id": 28,
+        "name": "美国",
+        "code": "USA",
+        "group": "G"
+    }, 
+    {
+        "id": 29,
+        "name": "比利时",
+        "code": "BEL",
+        "group": "H"
+    }, 
+    {
+        "id": 30,
+        "name": "阿尔及利亚",
+        "code": "ALG",
+        "group": "H"
+    }, 
+    {
+        "id": 31,
+        "name": "俄罗斯",
+        "code": "RUS",
+        "group": "H"
+    }, 
+    {
+        "id": 32,
+        "name": "韩国",
+        "code": "KOR",
+        "group": "H"
+    }
+]
