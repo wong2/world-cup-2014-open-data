@@ -1,4 +1,4 @@
-world-cup-2014-open-data
+2014世界杯开放数据
 ========================
 
-open data for world cup 2014
+* 小组赛赛程：`data/group_matches.json`
